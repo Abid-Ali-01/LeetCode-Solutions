@@ -7,7 +7,7 @@ The solutions are categorized based on problem difficulty: Easy, Medium, and Har
 
 <h2>Medium</h2> 
 <p>Solutions to medium-level problems.</p>
-<br>
+
 <h2>Hard</h2> 
 <p>Solutions to hard-level problems.</p>
 
