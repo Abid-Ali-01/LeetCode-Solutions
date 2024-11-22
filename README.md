@@ -3,11 +3,9 @@ The solutions are categorized based on problem difficulty: Easy, Medium, and Har
 
 <h1>Structure</h1>
 <b>Easy/:</b> Solutions to easy-level problems.
-
-
+<br>
 <b>Medium/:</b> Solutions to medium-level problems.
-
-
+<br>
 <b>Hard/:</b> Solutions to hard-level problems.
 
 Each file is named according to the problem title for easy identification.
