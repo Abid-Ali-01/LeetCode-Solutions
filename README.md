@@ -2,11 +2,14 @@ This repository contains my solutions to LeetCode problems implemented in C++.
 The solutions are categorized based on problem difficulty: Easy, Medium, and Hard.
 
 <h1>Structure</h1>
-<b>Easy/:</b> Solutions to easy-level problems.
+<h2>Easy</h2>
+<p>Solutions to easy-level problems.</p>
+
+<h2>Medium</h2> 
+<p>Solutions to medium-level problems.</p>
 <br>
-<b>Medium/:</b> Solutions to medium-level problems.
-<br>
-<b>Hard/:</b> Solutions to hard-level problems.
+<h2>Hard</h2> 
+<p>Solutions to hard-level problems.</p>
 
 Each file is named according to the problem title for easy identification.
 
