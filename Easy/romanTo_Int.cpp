@@ -49,6 +49,7 @@ int main (){
 Solution s;
 
 s.romanToInt("MXM");
+cout<<s.romanToInt("MXM");
 
 
 }
