@@ -21,7 +21,7 @@ public:
 
 int main() {
     Solution s;
-int index = s.strStr("fdacascwubfuecifoundajeuecbscuasdbaasichasifas", "");
+int index = s.strStr("fdacascwubfuecifoundajeuecbscuasdbaasichasifas", "found");
 cout<<index;
 
     return 0;
